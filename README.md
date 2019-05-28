@@ -1,4 +1,4 @@
-# Realex_solutions_app
+# Laundry Booking Demo App
 
 install expo globally on the computer
 
