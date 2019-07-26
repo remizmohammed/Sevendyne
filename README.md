@@ -1,4 +1,4 @@
-# Laundry Booking Demo App
+# Booking Demo App
 
 install expo globally on the computer
 
