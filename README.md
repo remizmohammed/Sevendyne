@@ -1,4 +1,4 @@
-# Booking App
+# Sevendyne Web App
 
 We are dveeloping an online app for connecting consultants of various sectors like IT, Electricals, Finance etc.
 
