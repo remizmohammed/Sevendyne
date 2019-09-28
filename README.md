@@ -1,8 +1,7 @@
-# Booking Demo App
+# Booking App
 
-install expo globally on the computer
+We are dveeloping an online app for connecting consultants of various sectors like IT, Electricals, Finance etc.
 
-#npm install
-#npm start
+Website: www.sevendyne.com
 
-run app on expo 
+Using ReactJS for developing the app. More details will be added soon.
